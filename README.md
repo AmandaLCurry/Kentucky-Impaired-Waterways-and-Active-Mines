@@ -27,6 +27,11 @@ Permits are required to mine and I focused on active producing mines. There are 
 
 Using the Priority Watershed data helped to highlight areas of major concern around the Commonwealth. These areas helped to highlight overall areas within specific watersheds - which contains multiple waterways. I analyzed three specific areas Western Kentucky, Eastern Kentucky, and Central Kentucky. While there are no mining activities in Central Kentucky, there are several waterways that are impaired and multiple watersheds that are listed as priorities. The Kentucky Division of Water (DOW) Priority Watersheds represent watersheds where focus is placed for limited resources to improve water quality. This data helps drive the prioritization effort to address specific local water quality needs. These watersheds receive greater consideration for funding and technical support in regards to grants, water infrastructure projects, wastewater improvement, and in agricultural programs. Priorities reflect areas with a demonstrated need for investment, including impaired waters and environmental justice considerations, to improve water quality. 
 
+[Western Kentucky](https://github.com/AmandaLCurry/Kentucky-Impaired-Waterways-and-Active-Mines/blob/main/western%20ky.png)
+
+[Eastern Kentucky](https://github.com/AmandaLCurry/Kentucky-Impaired-Waterways-and-Active-Mines/blob/main/Eastern%20KY%201.png)
+
+[Central Kentucky](https://github.com/AmandaLCurry/Kentucky-Impaired-Waterways-and-Active-Mines/blob/main/Central%20ky.png)
 
 ## Final Map
 
