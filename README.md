@@ -5,6 +5,8 @@ My mapping project was to explore the relationship between imparied waterways, p
 
 Click here [Kentucky Impaired Waterways and Active Mines.png](https://github.com/AmandaLCurry/Kentucky-Impaired-Waterways-and-Active-Mines/blob/main/Kentucky%20Impaired%20Waterways%20and%20Active%20Mines.png), to view my final map.
 
+![Kentucky Impaired Waterways and Active Mines.png](https://github.com/AmandaLCurry/Kentucky-Impaired-Waterways-and-Active-Mines/blob/main/Kentucky%20Impaired%20Waterways%20and%20Active%20Mines.png)
+
 ## Project Contents
 
 - [Purpose](#purpose)
