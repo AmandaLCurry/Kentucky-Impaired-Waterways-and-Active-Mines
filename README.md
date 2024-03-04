@@ -43,7 +43,7 @@ Please view the [final map online](https://amandalcurry.github.io/Kentucky-Impai
 * Final Map projection: WGS 84, NAD83 (2011) Kentucky Single Zone (EPSG 3089)
 * County data - US Census Bureau TIGER Lines: [County TIGER Lines](https://www2.census.gov/geo/tiger/TIGER2023/COUNTY/)
 * 2022 DOW Impaired Streams data - The Kentucky Geoportal: [Kentucky Division of Water - 2022 Integrated Report 305(b) Assessed Streams](https://ky.app.box.com/s/rb17de7kxfwo4m4j98bzhuswd2sunq2k)
-* 2014 DOW Impaired Streams data - The Kentucky Geoportal: 
+* 2014 DOW Impaired Streams data - The Kentucky Geoportal: [Kentucky Division of Water - 2014 Integrated Report 305(b) Assessed Streams](https://ky.box.com/v/energy-environment/file/850630980093)
 * Actively Producing Permitted Mines data - Kentucky Geological Survey: [Active Mines](https://kgs.uky.edu/kgsmap/kyenergy/help/activemines.htm) 
 * Priority Watersheds data - KyGovMaps Open Data Portal: [Ky Priority Watersheds](https://opengisdata.ky.gov/datasets/2fa592ab49524421a9fc53e1f188376f_0/explore?location=37.738508%2C-85.680400%2C6.61)
 * Streams, Creeks, and River data - Kentucky Geological Survey: [Streams of Kentucky](https://www.uky.edu/KGS/gis/streams.htm) 
