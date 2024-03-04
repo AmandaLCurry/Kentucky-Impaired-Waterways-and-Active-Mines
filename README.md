@@ -3,7 +3,7 @@ Final Project for MAP 671
 
 My mapping project was to explore the relationship between imparied waterways, priority watersheds, and active mines in Kentucky. 
 
-[Click here](Kentucky Impaired Waterways and Active Mines.png), to view my final map.
+Click here [Kentucky Impaired Waterways and Active Mines.png](https://github.com/AmandaLCurry/Kentucky-Impaired-Waterways-and-Active-Mines/blob/main/Kentucky%20Impaired%20Waterways%20and%20Active%20Mines.png), to view my final map.
 
 ## Project Contents
 
