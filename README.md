@@ -35,7 +35,7 @@ Using the Priority Watershed data helped to highlight areas of major concern aro
 
 ## Final Map
 
-Please view the [final map online](https://amandalcurry.github.io/Kentucky-Impaired-Waterways-and-Active-Mines/).
+Please view the [final map online](https://amandalcurry.github.io/Kentucky-Impaired-Waterways-and-Active-Mines/). 
 
 
 ### Data Sources
