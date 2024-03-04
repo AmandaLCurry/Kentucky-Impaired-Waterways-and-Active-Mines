@@ -8,7 +8,6 @@ My mapping project was to explore the relationship between imparied waterways, p
 ## Project Contents
 
 - [Purpose](#purpose)
-- [Background](#background)
 - [Summary](#summary)
 - [Final Map](#final-project-link)
 - [Data Sources](#data-source)
@@ -20,7 +19,7 @@ My mapping project was to explore the relationship between imparied waterways, p
 It would be irresponsible to say there is a direct link from mining activities and impaired waterways, but there is definitely correlation and mining activities can cause damage to ecosystems, especially aquatic ecosystems. I wanted to explore this topic because I work at the Kentucky Energy and Environment Cabinet as an Environmental Scientist in the Division of Enforcement. I work with data like this everyday, but don't often have the time to pursue projects like this in my day to day duties.   
 
 
-### Background
+### Summary
 
 Section 305(b) of the Clean Water Act requires states to assess the condition of the "Waters of the US." The Kentucky Division of Water collects biological and water quality data to assess the condition of waterways and reports this to Congress every two years in the [Integrated Report to Congress](https://eec.ky.gov/Environmental-Protection/Water/Monitor/Pages/IntegratedReportDownload.aspx) I used these data to explore waterways designated impaired in previous years and the new waterways added in the 2022 report.
 
